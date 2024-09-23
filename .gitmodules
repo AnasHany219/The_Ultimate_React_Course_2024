@@ -1,0 +1,27 @@
+[submodule "03-pizza-menu"]
+	path = 03-pizza-menu
+	url = git@github.com:AnasHany2193/Pizza-Menu.git
+[submodule "05-travel-list"]
+	path = 05-travel-list
+	url = git@github.com:AnasHany2193/Travel-List.git
+[submodule "06-eat-n-split"]
+	path = 06-eat-n-split
+	url = git@github.com:AnasHany2193/Eat-N-Split.git
+[submodule "07-usepopcorn"]
+	path = 07-usepopcorn
+	url = git@github.com:AnasHany2193/usePopcorn.git
+[submodule "09-classy-weather"]
+	path = 09-classy-weather
+	url = git@github.com:AnasHany2193/Classy-Weather.git
+[submodule "10-react-quiz"]
+	path = 10-react-quiz
+	url = git@github.com:AnasHany2193/React-Quiz-App.git
+[submodule "11-worldwise"]
+	path = 11-worldwise
+	url = git@github.com:AnasHany2193/world-wise.git
+[submodule "15-fast-react-pizza"]
+	path = 15-fast-react-pizza
+	url = git@github.com:AnasHany2193/Fast-React-Pizza.git
+[submodule "16-the-wild-oasis"]
+	path = 16-the-wild-oasis
+	url = git@github.com:AnasHany2193/The-Wild-Oasis.git
